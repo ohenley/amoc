@@ -51,8 +51,9 @@ begin
       else
          Put_Line ("Unable to load the library " & HANDLE'Image (Library));
       end if;
-
-      delay 0.016667;
+      
+      -- ~ 60 hz
+      delay 0.016667; 
    end loop;
 
 end Mouse_Capture_Win32;
