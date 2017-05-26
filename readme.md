@@ -31,4 +31,4 @@ Execute mouse_capture_win32.exe at a command line.
 ## Acknowledgments
 
 * Code heavily inspired by https://rosettacode.org/wiki/Call_a_function_in_a_shared_library#Ada 
-* Useage of Win95/NT console support (nt_console.ads/adb) provided by Jerry van Dijk to format output (found at http://lml.ls.fi.upm.es/ep/ejemplos-ada/mvc-hora.ada/)
+* Useage of Win95/NT console support (nt_console.ads/adb) provided by Jerry van Dijk to format output
