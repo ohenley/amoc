@@ -14,11 +14,11 @@ NOTE: At the moment only the win32 platform is supported.
 
 ### Building
 
-gprbuild -d -P[this_repo_folder]\mouse_capture_win32.gpr
+* gprbuild -d -P[path_to_this_repo_folder]\mouse_capture_win32.gpr
 
 or
 
-Open Gnat Programming Studio (GPS) using the mouse_capture_win32.gpr file, click build.
+* Open Gnat Programming Studio (GPS) using the mouse_capture_win32.gpr file, click build.
 
 A mouse_capture_win32.exe should be outputed to the bin directory.
 
