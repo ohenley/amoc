@@ -2,6 +2,8 @@
 
 Native mouse capture in Ada. 
 
+![alt text](https://raw.githubusercontent.com/ohenley/Mouse-Capture/img.png)
+
 ## Getting Started
 
 This repo is basic exemplifying code that is supposed to work out of the box. 
