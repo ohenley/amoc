@@ -5,7 +5,7 @@ Native mouse capture in Ada.
 ## Getting Started
 
 This repo is basic exemplifying code that is supposed to work out of the box. 
-NOTE: At the moment only the win32 platform is supported.
+NOTE: At the moment only the win32 platform is supported. Next is Linux.
 
 ### Prerequisites
 
