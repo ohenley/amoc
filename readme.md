@@ -26,7 +26,7 @@ A mouse_capture_win32.exe should be outputed to the bin directory.
 
 ## Usage
 
-Execute mouse_capture_win32.exe at a command line.
+Launch mouse_capture_win32.exe.
 
 ## Acknowledgments
 
