@@ -14,7 +14,7 @@ NOTE: At the moment only the win32 platform is supported.
 
 ### Building
 
-* gprbuild -d -P[path_to_this_repo_folder]\mouse_capture_win32.gpr
+* At a command lin  execute: gprbuild -d -P[path_to_this_repo_folder]\mouse_capture_win32.gpr
 
 or
 
