@@ -26,7 +26,7 @@ A mouse_capture_win32.exe should be outputed to the bin directory.
 
 ## Usage
 
-Launch mouse_capture_win32.exe. NOTE: As-is the mouse capture is refreshed at around 60 Hz.
+Launch mouse_capture_win32.exe. NOTE: As-is this code is set to capture the mouse position in screenspace at ~ 60 Hz.
 
 ## Acknowledgments
 
