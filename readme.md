@@ -4,7 +4,7 @@
 
 ::: Basic mouse data capture   
 
-### Prerequisites
+## Prerequisites
 
 - Win32 platform
 - GNAT compiler
@@ -13,9 +13,13 @@
 
 - None
 
-### Building
+## Building
 
 - $ gprbuild mouse_capture_win32.gpr
+
+## Limitations
+
+Only works on win32
 
 ## Usage
 
