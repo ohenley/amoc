@@ -16,13 +16,7 @@ NOTE: At the moment only the win32 platform is supported. Next is Linux.
 
 ### Building
 
-* At a command line execute: gprbuild -d -P[path_to_this_repo_folder]\mouse_capture_win32.gpr
-
-or
-
-* Open Gnat Programming Studio (GPS) using the mouse_capture_win32.gpr file, click build.
-
-A mouse_capture_win32.exe should be outputed to the bin directory.
+* $ gprbuild mouse_capture_win32.gpr
 
 ## Usage
 
@@ -30,5 +24,4 @@ Launch mouse_capture_win32.exe. NOTE: As-is this code is set to capture the mous
 
 ## Acknowledgments
 
-* Code heavily inspired by https://rosettacode.org/wiki/Call_a_function_in_a_shared_library#Ada 
 * Useage of Win95/NT console support (nt_console.ads/adb) provided by Jerry van Dijk to format output
