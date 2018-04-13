@@ -1,4 +1,4 @@
-# Mouse Capture
+# AMOC
 
 Native mouse capture in Ada. 
 
