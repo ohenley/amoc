@@ -1,6 +1,4 @@
-# AMOC
-
-Native mouse capture in Ada. 
+# AMOC - Ada Mouse Capture
 
 ![alt text](https://github.com/ohenley/Mouse-Capture/blob/master/mouse_capture_win32_cmd.png)
 
